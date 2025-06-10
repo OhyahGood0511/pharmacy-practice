@@ -99,7 +99,7 @@ require_once("php_lib.php")
           <option value="">請選擇地區</option>
         </select>
 
-        <label for="address" id="zipcode" name="zipcode">郵遞區號:地址</label>
+        <label for="address" id="zipcode" name="zipcode">郵遞區號:</label>
 
         <input type="hidden" name="myZip" id="myZip" value="">
         <input type="text" name="address" id="address" placeholder="請輸入後續地址">
