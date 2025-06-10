@@ -16,5 +16,9 @@ pharmacy-practice/
         └─ pharmacy.sql # 資料庫
 </code></pre>
 ## 備註
-請確認connect.php使用的帳號與資料庫名稱與你本地環境一致
-此專案僅作為練習作品，尚未導入完整驗證、安全防護
+<ul>
+    <li>請確認connect.php使用的帳號與資料庫名稱與你本地環境一致</li>
+    <li>此專案僅作為練習作品，尚未導入完整驗證、安全防護</li>
+</ul>
+
+
