@@ -5,7 +5,8 @@
 ## 使用技術
 HTML, CSS, JavaScript, PHP, and MySQL，環境使用xampp
 
-## 專案結構
+<pre><code>
+    ## 專案結構
 pharmacy-practice/
 ├─ index.php # 首頁
 ├─ register.php # 註冊頁面
@@ -16,3 +17,5 @@ pharmacy-practice/
 ## 備註
 請確認connect.php使用的帳號與資料庫名稱與你本地環境一致
 此專案僅作為練習作品，尚未導入完整驗證、安全防護
+
+</code></pre>
